@@ -208,4 +208,6 @@ marimo/_lsp/
 __marimo__/
 
 
-.json
+*.json
+*.csv
+*.duckdb
