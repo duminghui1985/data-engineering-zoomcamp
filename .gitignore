@@ -219,3 +219,4 @@ logs/*.log
 *.py[cod]
 logs/queries
 duckdb.db
+data
